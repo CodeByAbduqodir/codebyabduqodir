@@ -2,16 +2,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Abduqodir+-+YoruDev;Backend+Engineer+%7C+Linux+Poweruser;Aiogram+botmaker+%7C+DRF+lover;Writing+code+like+poetry+%E2%9C%A8" />
 </p>
 
-<h1 align="center">Hi there 👋 I'm Abduqodir - YoruDev </h1>
 <p align="center">
   <b>@CodeByAbduqodir</b> — backend artisan, Linux enjoyer, and open source enthusiast 🇺🇿  
   <br><br>
   <i>Writing elegant code while sipping on terminal tea 🍵</i>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-</p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=CodeByAbduqodir&color=blueviolet&style=flat-square)
 
@@ -49,25 +45,25 @@
 ---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
 
 ### 🌐 Socials:
-<p align="center">
+
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/justabduqodir)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0.svg?logo=Telegram&logoColor=white)](https://t.me/PHPioneer)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=Gmail&logoColor=white)](mailto:alrgmw@google.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=GitHub&logoColor=white)](https://github.com/CodeByAbduqodir)
 
-</p>
+
 ---
 
 ### 🐍 Contribution Snake (Enable GitHub Action to animate!)
 <p align="center">
-  <img src="https://github.com/CodeByAbduqodir/CodeByAbduqodir/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/CodeByAbduqodir/CodeByAbduqodir/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
