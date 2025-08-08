@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Abduqodir+-+YoruDev;Backend+Engineer+%7C+Linux+Poweruser;Aiogram+botmaker+%7C+DRF+lover;Writing+code+like+poetry+%E2%9C%A8" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Hi+there+%F0%9F%91%8B+I'm+Abduqodir+-+YoruDev;Backend+Engineer+%7C+Linux+Poweruser;Aiogram+botmaker+%7C+DRF+lover;Writing+code+like+poetry+%E2%9C%A8" />
 </p>
 
-<h1 align="center">Hi there 👋 I'm Abduqodir - YoruDev </h1>
 <p align="center">
   <b>@CodeByAbduqodir</b> — backend artisan, Linux enjoyer, and open source enthusiast 🇺🇿  
   <br><br>
@@ -82,7 +81,7 @@
 
 ---
 
-### 🐍 Contribution Snake (Enable GitHub Action to animate!)
+### 🐍 Contributions
 <p align="center">
   <img src="https://github.com/CodeByAbduqodir/CodeByAbduqodir/blob/output/github-contribution-grid-snake.svg" />
 </p>
