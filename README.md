@@ -9,7 +9,7 @@
 </p>
 
 
-[![Profile Views](https://img.shields.io/badge/Profile%20Views-🔍%20Live-blueviolet?style=for-the-badge)](https://github.com/CodeByAbduqodir)
+![Profile Views](https://komarev.com/ghpvc/?username=CodeByAbduqodir&style=for-the-badge&color=blueviolet)
 
 ---
 
