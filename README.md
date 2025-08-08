@@ -8,10 +8,6 @@
   <i>Writing elegant code while sipping on terminal tea 🍵</i>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-</p>
-
 ![Profile views](https://komarev.com/ghpvc/?username=CodeByAbduqodir&color=blueviolet&style=flat-square)
 
 ---
